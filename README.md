@@ -11,6 +11,6 @@ YBIGTA 2020-1학기 여름 컨퍼런스
 3. Extract Keyword(TF IDF) & Define recommendation System - *김용우 (ew5224)*
 4. Front end & Server - *김수정 (ksjkbj)*
 
-## Project Progress 
-2020.05.23(SAT) Team formation
-2020.05.25(MON) Team First meet
+## Project Progress    
+2020.05.23(SAT) Team formation   
+2020.05.25(MON) Team First meet   
