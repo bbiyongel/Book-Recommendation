@@ -13,4 +13,6 @@ YBIGTA 2020-1학기 여름 컨퍼런스
 
 ## Project Progress    
 2020.05.23(SAT) Team formation   
-2020.05.25(MON) Team First meet   
+2020.05.25(MON) Team First meet    
+2020.06.07(SUN) Team Second meet - Data Crawling Plan & prelim announcement plan   
+2020.06.10(Wed) Data Crawling & DB Construction End    
